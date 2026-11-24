@@ -3,10 +3,10 @@
     "youtube-analytics": {
       "command": "node",
       "args": [
-        "/TO_LIQ_MANZIL/youtube-analytics-mcp/build/index.js"
+        "/absolute/path/to/youtube-analytics-mcp/build/index.js"
       ],
       "env": {
-        "YOUTUBE_API_KEY": "BU_YERGA_YOUTUBE_API_KALITINGIZNI_YOZING"
+        "YOUTUBE_API_KEY": "YOUR_YOUTUBE_DATA_API_V3_KEY"
       }
     }
   }
