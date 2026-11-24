@@ -2,9 +2,9 @@
 set -e
 cd "$(dirname "$0")/.."
 echo "========================================"
-echo " YouTube Analytics MCP - O'rnatish"
+echo " YouTube Analytics MCP Setup"
 echo "========================================"
 npm ci
 npm run build
 echo ""
-echo "TAYYOR! build/index.js yaratildi."
+echo "Build complete. Entry point is build/index.js."
